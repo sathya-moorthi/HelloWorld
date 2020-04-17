@@ -9,12 +9,5 @@
     <body>
         <h3 class="message"><%=HelloWorld.getMessage()%></h3>
         <%= "Hello World!" %>
-        <%= "Hello World!" %>
-        <%= "Hello World!" %>
-        <%= "Hello World4!" %>
-        <%= "Hello World5 for webhook!" %>
-        <%= "Hello World6 for webhook!" %>
-        <%= "Hello World7 for webhook!" %>
-        <%= "Hello World8 for webhook!" %>
-    </body>
+      </body>
 </html>
