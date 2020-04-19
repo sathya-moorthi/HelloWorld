@@ -8,7 +8,6 @@
     </head>
     <body>
         <h3 class="message"><%=HelloWorld.getMessage()%></h3>
-        <%= "Hello World!" %>
-        <%= "/nTesting Docker Hub!" %>
+        <%= "/nTesting RW!" %>
       </body>
 </html>
