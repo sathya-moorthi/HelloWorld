@@ -8,6 +8,6 @@
     </head>
     <body>
         <h3 class="message"><%=HelloWorld.getMessage()%></h3>
-        <%= "/nTesting RW dev!" %>
+        <%= "Testing RW dev!" %>
       </body>
 </html>
